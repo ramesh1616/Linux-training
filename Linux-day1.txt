@@ -1,0 +1,36 @@
+ls--listing the files/directories
+whoami--it will give current user information
+clear--clearing the screen
+cd---change direcotry
+cd .. --- before folder
+pwd--- presnt working directory
+man, help--- for knowing the detials about the purticular command
+mkdir--creating direcotry
+rmdir-- removing/deleting empty folders
+sudo---admin accesses
+touch--creating an empty file
+rm-- removing a file
+cat--displaying content of the file
+
+<---input,>-- output,>>--output for appending the text
+
+vi,vim,nano---editing filesin linux
+vi filename
+
+3modes--- command mode--- :        operations
+	  insert mode--- i,o,ins   adding content
+          Normal mode--- esc   view the content of the file
+
+w-write. q-exit
+
+logout
+
+--------------------------------------------------------------------------
+tasks:
+
+
+1. create a linux sever in aws and access it with gitbash
+2. create a file in /home/afzal with name "linux"
+ and add some content
+3. also try all the commands inlunx sever
+4. stop the aws instance
