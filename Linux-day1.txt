@@ -1,3 +1,5 @@
+ssh -i "keyfile" ec2-user@ip
+
 ls--listing the files/directories
 whoami--it will give current user information
 clear--clearing the screen
@@ -19,7 +21,7 @@ vi filename
 
 3modes--- command mode--- :        operations
 	  insert mode--- i,o,ins   adding content
-          Normal mode--- esc   view the content of the file
+          Verbose mode--- esc      view the content of the file
 
 w-write. q-exit
 
