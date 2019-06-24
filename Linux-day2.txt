@@ -1,0 +1,41 @@
+ubuntu, fedora and debian--freewares
+redhat--, centos--open source 
+amazon linux--simple linux system
+
+cat /etc/os-release ---to check the os version of linux
+
+hisotry--history
+sshd:22---service(Secure SHell)
+useradd username--- crerating user
+passwd user-- setting password for the user
+su - username
+sudo su --- root account
+/home/  -- home folder for every user account
+rm -rf--- for deleting a non empty directory
+who-- for knowing who logined into the server
+
+/etc/passwd---- user info
+/etc/group---group info
+
+useradd ramesh1 -c "ramesh another account" -e "12-12-2019" -g "ec2-user" -s "/bin/bash" -u "1200"
+
+
+default:useradd capgemini
+1-user with the username -capgemini
+2.it will generate a uid (stars from 1000) 
+3.it will also creates a group + group id
+4.it will creates a directory at /home/capgemini
+5.it will works with /bin/bash
+6.it not password protected
+
+groupadd groupname
+
+
+file permissions:
+chmod 700 filename
+
+7.it wot be expired
+
+
+
+

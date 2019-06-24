@@ -6,9 +6,9 @@ clear--clearing the screen
 cd---change direcotry
 cd .. --- before folder
 pwd--- presnt working directory
-man, help--- for knowing the detials about the purticular command
+man, help--- for knowing the detials about a purticular command
 mkdir--creating direcotry
-rmdir-- removing/deleting empty folders
+rmdir-- removing/deleting an empty folders
 sudo---admin accesses
 touch--creating an empty file
 rm-- removing a file
